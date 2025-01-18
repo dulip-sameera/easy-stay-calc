@@ -1,0 +1,63 @@
+* {
+    -fx-font-family: Roboto;
+    -fx-text-fill: #0f0f0f;
+
+}
+
+.label {
+    -fx-font-size: 16;
+
+}
+
+.lbl-app-title {
+    -fx-font-weight: 900;
+    -fx-font-size: 32;
+
+}
+
+.lbl-total, .lbl-price {
+    -fx-font-size: 26;
+}
+
+.lbl-error-message {
+    -fx-font-size: 14;
+    -fx-text-fill: #d3011c;
+
+}
+
+.button {
+    -fx-padding: 6;
+    -fx-font-size: 14;
+    -fx-pref-width: 90;
+    -fx-pref-height: 30;
+    -fx-border-radius: 15;
+    -fx-background-radius: 15;
+
+}
+
+.button:hover {
+    -fx-cursor: hand;
+
+}
+
+.button-calculate {
+    -fx-background-color: #1c39bb;
+    -fx-text-fill: #fff;
+
+}
+
+.button-calculate:hover {
+    -fx-background-color: #0f52ba;
+
+}
+
+.button-clear {
+    -fx-background-color: #cf352e;
+    -fx-text-fill: #fff;
+
+}
+
+.button-clear:hover {
+    -fx-background-color: #e55451;
+
+}
