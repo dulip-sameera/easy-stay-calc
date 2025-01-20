@@ -5,7 +5,7 @@ on the number of guests and nights. Plan your stay quickly
 and easily with accurate pricing at your fingertips!
 
 # Version
-0.1.0
+0.1.1
 
 # License
 Copyright &copy; 2025 EasyStayCalc. All Rights Reserved. 
